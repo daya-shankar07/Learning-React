@@ -1,0 +1,7 @@
+# ```npm init``` command
+## npm init will initialize our folder with package.json which will contains the configuration for app node_module dependencies
+
+# ```npm install -D``` parcel
+## will install parcel bundler in the node_module folder and download all dependent modules too. this is the first time when node_module will start appearing in our local. -D (not -d ) or -dev means that parcel is only reuired in development machine.
+
+
